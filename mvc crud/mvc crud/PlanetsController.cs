@@ -46,7 +46,7 @@ namespace mvc_crud
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "PlanetId,Name")] Planet planet)
+        public ActionResult Create([Bind(Include = "PlanetId,Name,Population")] Planet planet)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace mvc_crud
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "PlanetId,Name")] Planet planet)
+        public ActionResult Edit([Bind(Include = "PlanetId,Name,Population")] Planet planet)
         {
             if (ModelState.IsValid)
             {
