@@ -1,0 +1,37 @@
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\csc.exe
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\vbc.exe
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\mvc crud.dll.config
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\mvc crud.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\mvc crud.pdb
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\EntityFramework.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\EntityFramework.SqlServer.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Helpers.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Mvc.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Razor.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.Razor.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\EntityFramework.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\EntityFramework.SqlServer.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Razor.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Webpages.Razor.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Helpers.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\bin\System.Web.Mvc.xml
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\obj\Debug\mvc crud.csprojResolveAssemblyReference.cache
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\obj\Debug\mvc crud.dll
+C:\Users\bbeac_000\Source\Repos\mvc-crud\mvc crud\mvc crud\obj\Debug\mvc crud.pdb
